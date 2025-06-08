@@ -1,0 +1,19 @@
+{
+  "name": "profile-site",
+  "version": "1.0.0",
+  "description": "プロフィールリンクサイト",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Build completed'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": [
+    "profile",
+    "linktree",
+    "portfolio",
+    "business-card"
+  ],
+  "author": "田中太郎",
+  "license": "MIT"
+}
